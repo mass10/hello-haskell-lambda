@@ -4,7 +4,7 @@ Haskell で AWS Lambda を動かすサンプル。
 
 ## 構成
 
-- ランタイム: [`hal`](https://hackage.haskell.org/package/hal) (Haskell AWS Lambda)
+- ランタイム: [`hal`](https://hackage.haskell.org/package/hal) (Haskell AWS Lambda - Nike OSS)
 - ビルド: Cabal
 - デプロイ: `bootstrap` バイナリを `lambda.zip` に固めて Lambda にアップロード
 
