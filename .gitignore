@@ -1,0 +1,13 @@
+dist-newstyle/
+.cabal-sandbox/
+cabal.sandbox.config
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+.ghc.environment.*
+cabal.project.local
+cabal.project.local~
+
+bootstrap
+lambda.zip
